@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22847897610",
+    "project_id": "ukrainian-railway-company",
+    "storage_bucket": "ukrainian-railway-company.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22847897610:android:88509be65655b957359ff3",
+        "android_client_info": {
+          "package_name": "com.example.urc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhL22RnIWXJXsqtLvCDPrfJsXu24egpuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
